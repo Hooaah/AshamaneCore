@@ -18,7 +18,6 @@
 ## Build Status
 
 [![master Build Status](https://travis-ci.com/Hooaah/AshamaneCore.svg?branch=master)](https://travis-ci.org/Hooaah/AshamaneCore)
-[![Build status](https://ci.appveyor.com/api/projects/status/kb0wjxh3va9c3e0k/branch/master?svg=true)](https://ci.appveyor.com/project/Traesh/ashamanecore/branch/master)
 
 ## Introduction
 
