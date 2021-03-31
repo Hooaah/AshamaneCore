@@ -25,7 +25,7 @@ build_script:
     copy "%OPENSSL_ROOT_DIR%\ssleay32.dll" ssleay32.dll
 
     copy "%OPENSSL_ROOT_DIR%\libeay32.dll" libeay32.dll
-test: off
+test: on
 artifacts:
 - path: build\bin\RelWithDebInfo\
   name: AshamaneCoreWin64VS2019
