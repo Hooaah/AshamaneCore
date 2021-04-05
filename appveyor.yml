@@ -1,8 +1,0 @@
-version: 1.0.{build}
-image: Script
-clone_depth: 1
-init:
-- ps: ''
-environment:
-  BOOST_ROOT: C:\Libraries\boost_1_71_0
-  OPENSSL_ROOT_DIR: C:\OpenSSL-Win64
