@@ -17,7 +17,7 @@
 
 ## Build Status
 
-[![master Build Status]https://travis-ci.org/Hooaah/AshamaneCore.svg?branch=master
+[![master Build Status] https://travis-ci.org/Hooaah/AshamaneCore.svg?branch=master
 
 ## Introduction
 
